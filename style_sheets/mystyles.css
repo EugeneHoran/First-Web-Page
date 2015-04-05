@@ -1,0 +1,57 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/images/eugene_india_taj.jpg") no-repeat;	
+	background-size: auto;
+}
+
+header {
+	padding: 30px;
+}
+header h1 {
+	text-transform: uppercase;
+	font-size: 60px;
+	letter-spacing: 12px;
+	padding-left: 12px;
+	margin: 0 0 0 4px;
+	color: #727272;
+	font-family:  Roboto-Regular; 
+}
+
+a {
+	color: #009688;
+	font-size: 20px;
+	text-decoration: none;
+}
+a:hover {
+	color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    display: inline;
+	padding-left: 16px;
+}
+@font-face {
+	font-family: Roboto-Bold;
+	src: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/fonts/Roboto-Bold.ttf");
+}
+@font-face {
+	font-family: Roboto-Light;
+	src: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/fonts/Roboto-Light.ttf");
+}
+@font-face {
+	font-family: Roboto-Black;
+	src: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/fonts/Roboto-Black.ttf");
+}
+@font-face {
+	font-family: Roboto-Thin;
+	src: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/fonts/Roboto-Thin.ttf");
+}
+@font-face {
+	font-family: Merriweather-Regular;
+	src: url("C:/Users/Eugene/Desktop/eugene_horan_web_page/fonts/Merriweather-Regular.ttf");
+}

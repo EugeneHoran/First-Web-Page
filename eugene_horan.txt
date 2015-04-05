@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+		<link rel="shortcut icon" href="C:/Users/Eugene/Desktop/webdev/person.png" />
+		<title>Eugene Horan</title>
+		<link rel="stylesheet" type= "text/css" href="C:/Users/Eugene/Desktop/eugene_horan_web_page/style_sheets/mystyles.css" />
+	</head>
+	<body>
+		<section>
+			<header>
+				<h1>Eugene Horan</h1>
+				<nav>
+					<ul>
+						<li><a href="https://www.facebook.com/profile.php?id=565328301" target="_blank"><font face="Roboto-Light" >add</font><font face="Roboto-Bold" >Facebook</font></a></li>
+						<li><a href="https://github.com/EugeneHoran?tab=repositories" target="_blank"><font face="Roboto-Thin" >fork</font><font face="Roboto-Bold" >GitHub</font></a></li>
+						<li><a href="https://play.google.com/store/apps/developer?id=Eugene+Horan" target="_blank"><font face="Roboto-Thin" >view</font><font face="Roboto-Bold" >GooglePlay</font></a></li>
+						<li><a href="mailto:eh841271@gmail.com"><font face="Roboto-Thin" target="_blank" >contact</font><font face="Roboto-Bold" >Gmail</font></a></li>
+						<a href="mailto:eh841271@gmail.com">Email Me</a> 
+					</ul>
+				</nav>
+			</header>
+		</section>
+	</body>
+<html>
+
